@@ -1,0 +1,20 @@
+{
+  "name": "musictron",
+  "version": "1.0.0",
+  "description": "Explore music as fundamental particles.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lerna run --parallel start"
+  },
+  "keywords": [],
+  "author": "clickout",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^5.5.4",
+    "typescript": "^4.8.4"
+  },
+  "workspaces": [
+    "repositories/**/*"
+  ]
+}
