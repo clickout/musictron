@@ -1,0 +1,6 @@
+[submodule "repositories/server/musictron-core-server"]
+	path = repositories/server/musictron-core-server
+	url = https://github.com/clickout/musictron-core-server.git
+[submodule "repositories/client/musictron-web-client"]
+	path = repositories/client/musictron-web-client
+	url = https://github.com/clickout/musictron-web-client.git
